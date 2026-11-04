@@ -1,0 +1,10 @@
+- [/] Initialize Next.js project
+- [ ] Install Supabase dependencies
+- [ ] Create Supabase SQL Schema (orders, reference_pool, functions)
+- [ ] Set up Supabase client in Next.js
+- [ ] Build Global Styles and UI aesthetics (Vanilla CSS)
+- [ ] Build Landing Page (/)
+- [ ] Build Booking Form (/student) with file upload and ID generation
+- [ ] Build Admin Login (/login)
+- [ ] Build Admin Dashboard (/admin) with Realtime Queue
+- [ ] Implement Night Cleanup Script
